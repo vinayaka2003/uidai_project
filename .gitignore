@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+data/
+analysis/eda_outputs/
+analysis/forecast_outputs/
